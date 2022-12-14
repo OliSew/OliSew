@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OliSew
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m [@OliSew](https://github.com/OliSew)
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me...
 
 <!---
 OliSew/OliSew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
