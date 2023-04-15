@@ -1,10 +1,5 @@
-- 👋 Hi, I’m [@OliSew](https://github.com/OliSew)
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on...php login panel
-- 📫 How to reach me... you can reach me by mail olisew1@wp.pl
+Hello!
 
-<!---
-OliSew/OliSew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a developer without much experience, but I am enthusiastic about learning and improving my skills. I enjoy coding in HTML, Python, CSS, and have a little bit of experience with JavaScript as well. I usually spend around 30 minutes on GitHub, where I like to explore different projects and get inspired by other developers.
+
+Feel free to check out my profile if you're interested in seeing what I'm working on. Thank you for taking the time to read this.
